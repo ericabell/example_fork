@@ -7,7 +7,7 @@ function subtract(a,b) {
 }
 
 function multiply(a,b) {
-  return a*a;
+  return a*b;
 }
 
 console.log(`Sum of 2 and 3 is ${add(2,3)}`);
